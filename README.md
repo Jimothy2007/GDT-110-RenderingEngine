@@ -2,7 +2,7 @@
 This is my project for the GDT-110 Rendering Engine assignment. Here are the links to the required submissions:
 
 - Link to the GitHub repository: https://github.com/Jimothy2007/GDT-110-RenderingEngine
-- Link to the research report Word document:
+- Link to the research report Word document: https://1drv.ms/w/c/1bae3a119f73a11b/IQBe2uw9kTyOSJNqLcd4saEBAUPOU_XL4cgj-lU9EjnkDas?e=e6FU8U
 - Link to the video explaining the project:
 
 How to run the project:
